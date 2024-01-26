@@ -1,0 +1,19 @@
+{
+  "name": "github-spray-2021",
+  "version": "1.0.0",
+  "description": "![image](https://github.com/ardaltunel/github-spray-2021/assets/35379428/be48d058-1a20-40c9-ae4e-58838aa54db9)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "lodash": "^4.17.21",
+    "moment": "^2.30.1",
+    "random": "^4.1.0",
+    "simple-git": "^3.22.0",
+    "uuid": "^9.0.1"
+  }
+}
